@@ -1,0 +1,50 @@
+body{
+    background-color: #74EBD5;
+    background-image: linear-gradient(90deg, #74EBD5 0%, #9FACE6 100%);
+    
+}
+
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 350px;
+}
+
+
+.counter{
+    background-color: aliceblue;
+    box-shadow: 5px 10px 10px black;
+    border-radius: 10px;
+
+}
+
+/* .container{
+    margin-top: 300px;
+}
+
+
+
+.counter{
+    
+    margin: auto;
+    background-color: aliceblue;
+    width: 500px;
+    height: 14em;
+    border-radius: 10px; 
+}
+
+h1{
+    text-align: center;
+}
+
+.btn{
+    
+    border: 2px solid;
+}
+
+.btns1{
+   text-align: center;
+} */
+
